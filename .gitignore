@@ -1,0 +1,11 @@
+# all dot notation folders
+.mypy_cache/
+.pytest_cache/
+.venv/
+
+# pychache ignore file
+__pycache__/
+
+# Ignore IDE configuration files
+.vscode/
+.idea/
